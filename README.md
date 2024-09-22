@@ -3,20 +3,20 @@
 <img src="imgs/gif.gif" alt="Gift" align="right" width="200">
 
 ### Lenguajes de Programación
-<div style="display: inline-block; text-align: center;">
-<img src="imgs/c++.png" alt="c++" align="center" height="40" width="40" style="margin-right: 15px">
-<img src="imgs/javascript.png" alt="javascript" align="center" height="40" width="40" style="margin-right: 15px">
-<img src="imgs/java.png" alt="java" align="center" height="40" width="40" style="margin-right: 15px">
-<img src="imgs/python.png" alt="python" align="center" height="40" width="40" style="margin-right: 15px">
-<img src="imgs/php.png" alt="php" align="center" height="40" width="40" style="margin-right: 15px">
+<div style="display: inline-block">
+<img src="imgs/c++.png" alt="c++" align="center" height="40" width="40" style="margin-right: 20px">
+<img src="imgs/javascript.png" alt="javascript" align="center" height="40" width="40" style="margin-right: 20px">
+<img src="imgs/java.png" alt="java" align="center" height="40" width="40" style="margin-right: 20px">
+<img src="imgs/python.png" alt="python" align="center" height="40" width="40" style="margin-right: 20px">
+<img src="imgs/php.png" alt="php" align="center" height="40" width="40" style="margin-right: 20px">
 <br>
 </div>
 
 ### Tecnologias Web
-<div style="display: inline-block; text-align: center;">
-<img src="imgs/html.png" alt="html" align="center" height="40" width="40" style="margin-right: 15px">
+<div style="display: inline-block">
+<img src="imgs/html.png" alt="html" align="center" height="40" width="40" style="margin-right: 20px">
 <img src="imgs/css.png" alt="css" align="center" height="40" width="30">
-<img src="imgs/bootstrap.png" alt="bootstrap" align="center" height="50" width="50" style="margin-right: 15px">
+<img src="imgs/bootstrap.png" alt="bootstrap" align="center" height="50" width="50" style="margin-right: 20px">
 <br>
 </div>
 
