@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofadi+One&weight=500&pause=1000&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofadi+One&weight=500&pause=2000&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub)](https://git.io/typing-svg)
 
 <img src="imgs/gif.gif" alt="Gift" align="right" width="200">
 
@@ -26,8 +26,8 @@
     <div style="margin-right: 20px; text-align: center;">
         <strong>Backend</strong>
         <div>
-            <img src="imgs/django.png" alt="django" height="40" width="40" style="margin-right: 10px;">
-            <img src="imgs/springboot.png" alt="springboot" height="40" width="30" style="margin-right: 10px;">
+            <img src="imgs/django.png" alt="django" height="40" width="40" style="margin-right: 20px;">
+            <img src="imgs/springboot.png" alt="springboot" height="40" width="30" style="margin-right: 20px;">
             <img src="imgs/laravel.png" alt="laravel" height="50" width="50">
         </div>
     </div>
@@ -42,7 +42,8 @@
     <div style="margin-left: 20px; text-align: center;">
         <strong>Bases de Datos</strong>
         <div>
-            <img src="imgs/mysql.png" alt="mysql" height="40" width="40" style="margin-right: 10px;">
+            <img src="imgs/mysql.png" alt="mysql" height="40" width="40" style="margin-right: 20px;">
+            <img src="imgs/sqlserver.png" alt="sqlserver" height="40" width="40" style="margin-right: 20px;">
             <img src="imgs/sqlite.png" alt="sqlite" height="40" width="30">
         </div>
     </div>
