@@ -26,8 +26,8 @@
     <strong>Backend</strong>
     <div style="display: inline-block">
     <img src="imgs/django.png" alt="django" align="center" height="50" width="80" style="margin-right: 30px">
-    <img src="imgs/springboot.png" alt="springboot" align="center" height="50" width="50" style="margin-right: 30px">
-    <img src="imgs/laravel.png" alt="laravel" align="center" height="50" width="90">
+    <img src="imgs/springboot.png" alt="springboot" align="center" height="40" width="40" style="margin-right: 30px">
+    <img src="imgs/laravel.png" alt="laravel" align="center" height="50" width="120">
     <br>
     </div>
     <strong>Frontend</strong>
