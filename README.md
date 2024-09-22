@@ -3,7 +3,7 @@
 <img src="https://i.gifer.com/AjA6.gif" alt="Gift" align="right" width="200">
 
 <div>
-#Lenguajes de Programación
+###Lenguajes de Programación
 <div style="display: inline_block">
 <br>
 <img src="https://acortar.link/PP8I3m" alt="c++" align="center" height="40" width="40">
@@ -13,7 +13,7 @@
 <img src="https://acortar.link/v3kcL4" alt="php" align="center" height="40" width="40">
 <br>
 </div>
-#Tecnologias Web
+###Tecnologias Web
 <div style="display: inline_block">
 <br>
 <img src="https://acortar.link/v9zBVl" alt="html" align="center" height="40" width="40">
@@ -21,5 +21,5 @@
 <img src="https://acortar.link/6JEdfM" alt="bootstrap" align="center" height="40" width="40">
 <br>
 </div>
-#Frameworks y Tecnologías
+###Frameworks y Tecnologías
 </div>
