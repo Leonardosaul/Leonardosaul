@@ -16,35 +16,30 @@
 <div style="display: inline-block">
 <img src="imgs/html.png" alt="html" align="center" height="40" width="40" style="margin-right: 20px">
 <img src="imgs/css.png" alt="css" align="center" height="40" width="30">
-<img src="imgs/bootstrap.png" alt="bootstrap" align="center" height="50" width="50" style="margin-right: 20px">
+<img src="imgs/bootstrap.png" alt="bootstrap" align="center" height="50" width="50"">
 <br>
 </div>
 
 ### Frameworks y Tecnologías
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <div style="margin-right: 20px; text-align: center;">
-        <strong>Backend</strong>
-        <div>
-            <img src="imgs/django.png" alt="django" height="40" width="40" style="margin-right: 20px;">
-            <img src="imgs/springboot.png" alt="springboot" height="40" width="30" style="margin-right: 20px;">
-            <img src="imgs/laravel.png" alt="laravel" height="50" width="50">
-        </div>
+    <strong>Backend</strong>
+    <div style="display: inline-block">
+    <img src="imgs/django.png" alt="django" align="center" height="50" width="80" style="margin-right: 30px">
+    <img src="imgs/springboot.png" alt="springboot" align="center" height="50" width="50" style="margin-right: 30px">
+    <img src="imgs/laravel.png" alt="laravel" align="center" height="50" width="90">
+    <br>
     </div>
-    <div style="border-left: 2px solid #ccc; height: 60px; margin: 0 20px;"></div>
-    <div style="margin-left: 20px; text-align: center;">
-        <strong>Frontend</strong>
-        <div>
-            <img src="imgs/react.png" alt="react" height="40" width="40">
-        </div>
+    <strong>Frontend</strong>
+    <div style="display: inline-block">
+    <img src="imgs/react.png" alt="react" align="center" height="50" width="50">
+    <br>
     </div>
-    <div style="border-left: 2px solid #ccc; height: 60px; margin: 0 20px;"></div>
-    <div style="margin-left: 20px; text-align: center;">
-        <strong>Bases de Datos</strong>
-        <div>
-            <img src="imgs/mysql.png" alt="mysql" height="40" width="40" style="margin-right: 20px;">
-            <img src="imgs/sqlserver.png" alt="sqlserver" height="40" width="40" style="margin-right: 20px;">
-            <img src="imgs/sqlite.png" alt="sqlite" height="40" width="30">
-        </div>
+    <strong>Base de Datos</strong>
+    <div style="display: inline-block">
+    <img src="imgs/mysql.png" alt="mysql" align="center" height="50" width="80" style="margin-right: 30px">
+    <img src="imgs/sqlite.png" alt="sqlite" align="center" height="50" width="100" style="margin-right: 30px">
+    <img src="imgs/sqlserver.png" alt="sqlserver" align="center" height="50" width="120">
+    <br>
     </div>
 </div>
