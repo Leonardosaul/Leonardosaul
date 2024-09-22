@@ -22,3 +22,25 @@
 
 ### Frameworks y Tecnologías
 
+#### Backend
+<div style="display: inline-block">
+<img src="imgs/django.png" alt="django" align="center" height="40" width="40" style="margin-right: 20px">
+<img src="imgs/springboot.png" alt="springboot" align="center" height="40" width="30">
+<img src="imgs/laravel.png" alt="laravel" align="center" height="50" width="50" style="margin-right: 20px">
+<br>
+</div>
+
+#### Frontend
+<div style="display: inline-block">
+<img src="imgs/react.png" alt="react" align="center" height="40" width="40" style="margin-right: 20px">
+<br>
+</div>
+
+#### Bases de Datos
+<div style="display: inline-block">
+<img src="imgs/mysql.png" alt="mysql" align="center" height="40" width="40" style="margin-right: 20px">
+<img src="imgs/sqlite.png" alt="sqlite" align="center" height="40" width="30">
+<br>
+</div>
+
+#### APIs/Servicios
