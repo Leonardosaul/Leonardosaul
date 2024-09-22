@@ -22,25 +22,22 @@
 
 ### Frameworks y Tecnologías
 
-#### Backend
-<div style="display: inline-block">
-<img src="imgs/django.png" alt="django" align="center" height="40" width="40" style="margin-right: 20px">
-<img src="imgs/springboot.png" alt="springboot" align="center" height="40" width="30">
-<img src="imgs/laravel.png" alt="laravel" align="center" height="50" width="50" style="margin-right: 20px">
-<br>
+<div style="text-align: center;">
+    <div style="display: inline-block;">
+        <strong>Backend:</strong>
+        <img src="imgs/django.png" alt="django" height="40" width="40" style="margin-right: 10px;">
+        <img src="imgs/springboot.png" alt="springboot" height="40" width="30" style="margin-right: 10px;">
+        <img src="imgs/laravel.png" alt="laravel" height="50" width="50" style="margin-right: 20px;">
+    </div>
+    <span>|</span>
+    <div style="display: inline-block;">
+        <strong>Frontend:</strong>
+        <img src="imgs/react.png" alt="react" height="40" width="40" style="margin-right: 20px;">
+    </div>
+    <span>|</span>
+    <div style="display: inline-block;">
+        <strong>Bases de Datos:</strong>
+        <img src="imgs/mysql.png" alt="mysql" height="40" width="40" style="margin-right: 10px;">
+        <img src="imgs/sqlite.png" alt="sqlite" height="40" width="30">
+    </div>
 </div>
-
-#### Frontend
-<div style="display: inline-block">
-<img src="imgs/react.png" alt="react" align="center" height="40" width="40" style="margin-right: 20px">
-<br>
-</div>
-
-#### Bases de Datos
-<div style="display: inline-block">
-<img src="imgs/mysql.png" alt="mysql" align="center" height="40" width="40" style="margin-right: 20px">
-<img src="imgs/sqlite.png" alt="sqlite" align="center" height="40" width="30">
-<br>
-</div>
-
-#### APIs/Servicios
