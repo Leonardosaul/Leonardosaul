@@ -4,7 +4,6 @@
 
 ### Lenguajes de Programación
 <div style="display: inline-block; text-align: center;">
-<br>
 <img src="imgs/c++.png" alt="c++" align="center" height="40" width="40" style="margin-right: 15px">
 <img src="imgs/javascript.png" alt="javascript" align="center" height="40" width="40" style="margin-right: 15px">
 <img src="imgs/java.png" alt="java" align="center" height="40" width="40" style="margin-right: 15px">
@@ -15,7 +14,6 @@
 
 ### Tecnologias Web
 <div style="display: inline-block; text-align: center;">
-<br>
 <img src="imgs/html.png" alt="html" align="center" height="40" width="40" style="margin-right: 15px">
 <img src="imgs/css.png" alt="css" align="center" height="40" width="30">
 <img src="imgs/bootstrap.png" alt="bootstrap" align="center" height="50" width="50" style="margin-right: 15px">
