@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sofadi+One&weight=500&pause=1000&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub)](https://git.io/typing-svg)
 
-<img src="https://i.gifer.com/AjA6.gif" alt="Gift" align="right" width="200">
+<img src="imgs/gif.gif" alt="Gift" align="right" width="200">
 
 <div>
 ### Lenguajes de Programación
@@ -17,8 +17,8 @@
 <div style="display: inline_block">
 <br>
 <img src="imgs/html.png" alt="html" align="center" height="40" width="40">
-<img src="imgs/css.png" alt="css" align="center" height="40" width="40">
-<img src="imgs/bootstrap.png" alt="bootstrap" align="center" height="40" width="40">
+<img src="imgs/css.png" alt="css" align="center" height="40" width="30">
+<img src="imgs/bootstrap.png" alt="bootstrap" align="center" height="50" width="50">
 <br>
 </div>
 ### Frameworks y Tecnologías
