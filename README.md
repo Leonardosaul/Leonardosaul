@@ -2,7 +2,6 @@
 
 <img src="imgs/gif.gif" alt="Gift" align="right" width="200">
 
-<div>
 ### Lenguajes de Programación
 <div style="display: inline_block">
 <br>
@@ -13,6 +12,7 @@
 <img src="imgs/php.png" alt="php" align="center" height="40" width="40">
 <br>
 </div>
+
 ### Tecnologias Web
 <div style="display: inline_block">
 <br>
@@ -21,5 +21,6 @@
 <img src="imgs/bootstrap.png" alt="bootstrap" align="center" height="50" width="50">
 <br>
 </div>
+
 ### Frameworks y Tecnologías
-</div>
+
