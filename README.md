@@ -30,11 +30,13 @@
     <img src="imgs/laravel.png" alt="laravel" align="center" height="50" width="120">
     <br>
     </div>
+    <br>
     <strong>Frontend</strong>
     <div style="display: inline-block">
-    <img src="imgs/react.png" alt="react" align="center" height="50" width="50">
+    <img src="imgs/react.png" alt="react" align="center" height="40" width="4a0">
     <br>
     </div>
+    <br>
     <strong>Base de Datos</strong>
     <div style="display: inline-block">
     <img src="imgs/mysql.png" alt="mysql" align="center" height="50" width="80" style="margin-right: 30px">
