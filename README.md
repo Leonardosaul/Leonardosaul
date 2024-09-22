@@ -3,7 +3,7 @@
 <img src="imgs/gif.gif" alt="Gift" align="right" width="200">
 
 ### Lenguajes de Programación
-<div style="display: inline_block; text-align: center">
+<div style="display: inline-block; text-align: center;">
 <br>
 <img src="imgs/c++.png" alt="c++" align="center" height="40" width="40" style="margin-right: 15px">
 <img src="imgs/javascript.png" alt="javascript" align="center" height="40" width="40" style="margin-right: 15px">
@@ -14,7 +14,7 @@
 </div>
 
 ### Tecnologias Web
-<div style="display: inline_block; text-align: center">
+<div style="display: inline-block; text-align: center;">
 <br>
 <img src="imgs/html.png" alt="html" align="center" height="40" width="40" style="margin-right: 15px">
 <img src="imgs/css.png" alt="css" align="center" height="40" width="30">
