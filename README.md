@@ -6,7 +6,7 @@
 ###Lenguajes de Programación
 <div style="display: inline_block">
 <br>
-<img src="https://acortar.link/PP8I3m" alt="c++" align="center" height="40" width="40">
+<img src="imgs/pngwing.com.png" alt="c++" align="center" height="40" width="40">
 <img src="https://acortar.link/7GrfDb" alt="javascript" align="center" height="40" width="40">
 <img src="https://acortar.link/Q8MJ7R" alt="java" align="center" height="40" width="40">
 <img src="https://acortar.link/hqEBrr" alt="python" align="center" height="40" width="40">
