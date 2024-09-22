@@ -33,7 +33,7 @@
     <br>
     <strong>Frontend</strong>
     <div style="display: inline-block">
-    <img src="imgs/react.png" alt="react" align="center" height="40" width="4a0">
+    <img src="imgs/react.png" alt="react" align="center" height="40" width="40">
     <br>
     </div>
     <br>
